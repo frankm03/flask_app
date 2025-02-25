@@ -1,0 +1,7 @@
+cd templates    # Move into the templates folder
+pwd             # Check where I am
+cd ..           # Move back to flask_app
+ls              # List files in flask_app
+cd ..           # Move back to Documents
+cd ~/Desktop    # Move directly to the Desktop
+pwd             # Check if I’m in the right place
